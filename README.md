@@ -1,6 +1,6 @@
-== The Graphs with Java.
+# The Graphs with Java.
 
-# yveslongchampGraphJava.github.io
+yveslongchampGraphJava.github.io
 
 <p> Here is a project of building a graph with Java. </p>
 
