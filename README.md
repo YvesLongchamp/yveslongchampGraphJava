@@ -11,3 +11,6 @@ yveslongchampGraphJava.github.io
 <p> Polytech' Montpellier </p>
 
 <p> This was done for practicing with the Oriented Object Conception and Programming. </p>
+
+<p> You can found the documentation at : </p> 
+YvesLongchamp.github.io/doc
