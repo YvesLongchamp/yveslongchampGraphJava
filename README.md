@@ -12,4 +12,4 @@ yveslongchampGraphJava.github.io
 
 <p> This was done for practicing with the Oriented Object Conception and Programming. </p>
 
- You can found the documentation [here](http://YvesLongchamp.github.io/yveslongchampGraphJava/tree/gh-pages/doc "Title") 
+ You can found the documentation [here](http://YvesLongchamp.github.io/doc "Title") 
